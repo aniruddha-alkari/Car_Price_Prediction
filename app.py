@@ -5,7 +5,7 @@ from src.pipeline.predict_pipeline import CustomData, PredictPipeline
 # ---------------------------------------
 # Page Title
 # ---------------------------------------
-st.title("Used Car Price Prediction")
+st.title("🚗 Used Car Price Prediction")
 
 st.write("Enter car details and click Predict.")
 
@@ -122,4 +122,4 @@ if st.button("Predict Car Price"):
 
     result = pipeline.predict(pred_df)
 
-    st.success(f"Predicted Maths Score : {result[0]:.2f}")
+    st.success(f"Predicted Car Price : {result[0]:.2f}")
