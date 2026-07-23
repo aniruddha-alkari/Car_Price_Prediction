@@ -306,19 +306,9 @@ The best-performing model was selected using evaluation metrics such as:
 
 # 📷 Application Screenshots
 
-Screenshots are available inside the **Screenshot** folder.
+<img width="581" height="449" alt="1" src="https://github.com/user-attachments/assets/8bbcc1d2-af0a-4efd-8f66-e038e1de0325" />
 
-Example:
-
-```
-Screenshot/
-│
-├── Home.png
-├── Prediction.png
-├── Result.png
-```
-
-> Replace the above names with the actual screenshots present in your repository.
+<img width="568" height="442" alt="2" src="https://github.com/user-attachments/assets/585de97f-2536-4412-bf91-2a0fc0f9f418" />
 
 ---
 
